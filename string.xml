@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="main">Main menu</string>
+    <string name="etc">Etc menu</string>
+    <string name="menu">Viewing the menu</string>
+
+
+</resources>
